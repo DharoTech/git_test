@@ -1,3 +1,3 @@
 # git_test
 Testing for the odin project
-Hello Odin!
+ Hello Odin! ~ UsefulProgrammer.org
